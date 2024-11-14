@@ -28,8 +28,8 @@ namex==0.0.8
 networkx==3.4.2
 numpy==2.0.2
 opt_einsum==3.4.0
-optree==0.13.1
-packaging==24.1
+optree==0.13.0
+packaging==24.2
 pillow==11.0.0
 protobuf==5.28.3
 Pygments==2.18.0
